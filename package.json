@@ -1,6 +1,6 @@
 {
   "name": "wampy-mamp-v1",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Wampy legacy version 0.1.0 from github",
   "main": "index.js",
   "scripts": {
@@ -8,9 +8,12 @@
   },
   "author": "Vlad Kovalyov",
   "license": "ISC",
-  "keywords": ["websocket", "wamp"],
-  "repository" : {
-    "type" : "git",
-    "url" : "https://github.com/fleshka779/wampy-mamp-v1.git"
+  "keywords": [
+    "websocket",
+    "wamp"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fleshka779/wampy-mamp-v1.git"
   }
 }
