@@ -11,6 +11,6 @@
   "keywords": ["websocket", "wamp"],
   "repository" : {
     "type" : "git",
-    "url" : "https://github.com/npm/npm.git"
+    "url" : "https://github.com/fleshka779/wampy-mamp-v1.git"
   }
 }
