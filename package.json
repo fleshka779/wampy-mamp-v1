@@ -1,6 +1,6 @@
 {
   "name": "wampy-mamp-v1",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Wampy legacy version 0.1.0 from github",
   "main": "index.ts",
   "scripts": {
